@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: me.kaes3kuch3n.kotlintest.MainKt
+
